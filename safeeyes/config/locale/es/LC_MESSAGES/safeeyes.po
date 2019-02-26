@@ -432,7 +432,7 @@ msgstr[1] ""
 
 #: plugins/trayicon
 msgid "Next break at %s"
-msgstr "Siguiente descanso en"
+msgstr "El siguiente descanso será en %s"
 
 #: plugins/trayicon
 msgid "No Breaks Available"
